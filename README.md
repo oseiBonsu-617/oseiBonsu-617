@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m a clinically trained optometrist and researcher with
 
 ## 🧠 About Me
 
-- 🎓 OD from University of Cape Coast, Ghana (2020)  
+- 🎓 OD from University of Cape Coast, Ghana (2022)  
 - 🔬 Research experience in psychophysics, contrast sensitivity & low-vision technology  
 - 💻 Software engineering focus: Python, Flask, Django, PostgreSQL  
 - 📈 Passionate about human-centered innovation in vision care and health tech  
