@@ -1,49 +1,62 @@
-# 👋 Nana Osei-Bonsu – Portfolio Overview
+# 👋 Hi, I'm Nana Osei-Bonsu
 
-Welcome to my personal portfolio! I'm a Doctor of Optometry, vision science researcher, and backend developer. This repository showcases my work at the intersection of healthcare, science, and software.
+**Doctor of Optometry | Vision Science Researcher | Backend Developer**
 
----
-
-## 📌 About Me
-
-I have a background in clinical optometry and research, with recent work in:
-- Visual psychophysics & contrast sensitivity studies
-- Assistive technology design for low-vision users
-- Backend API development using Python, Flask, and Django
-
-I'm passionate about solving real-world problems through science-backed, human-centered technology.
+Welcome to my GitHub! I’m a clinically trained optometrist and researcher with a passion for understanding human vision — and building software that improves lives. My current focus lies at the intersection of **visual neuroscience, assistive technology, and backend systems development**.
 
 ---
 
-## 💼 What You'll Find in This Repo
+## 🧠 About Me
 
-This repository includes:
-- My **portfolio website** built with Bootstrap (grayscale template)
-- Custom HTML, CSS, and JS for a professional personal site
-- Project highlights and links to relevant GitHub repos
+- 🎓 OD from University of Cape Coast, Ghana (2020)  
+- 🔬 Research experience in psychophysics, contrast sensitivity & low-vision technology  
+- 💻 Software engineering focus: Python, Flask, Django, PostgreSQL  
+- 📈 Passionate about human-centered innovation in vision care and health tech  
 
----
-
-## 🔍 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [Optosol iDigital](link-to-repo) | Low-cost CCTV alternative for visually impaired students |
-| [Vision Pathway Analysis](link-to-repo) | Psychophysical study on M and P pathway in glaucoma |
-| [Clinical Records API](link-to-repo) | Flask backend system for healthcare records management |
+Whether in the lab or in code, I’m driven by one question:  
+**How can we build smarter, more inclusive tools to help people see and thrive?**
 
 ---
 
-## 🚀 How to Use
+## 💼 What I Work On
 
-To view the website locally:
-```bash
-# Clone this repo
-git clone https://github.com/your-username/your-repo-name.git
+| Project | Summary |
+|--------|---------|
+| 🛠️ [Optosol iDigital](#) | A low-cost CCTV alternative for students with low vision |
+| 🔬 [M & P Pathway Study](#) | Investigating contrast sensitivity in glaucoma & myopia using psychophysical testing |
+| 🧑‍💻 [Clinical Records API](#) | Flask-based backend for managing health data with secure role access |
+| 📊 [Vision Screening Visualizer](#) | Data visualization tool for OCT and VFT results |
 
-# Open the index.html in a browser
-cd startbootstrap-grayscale-gh-pages
-open index.html  # or double-click to open
+You’ll find source code, research artifacts, and prototypes across my pinned repositories.
+
+---
+
+## 🎯 My Goals
+
+- 🔎 Pursue a PhD in **Computational Neuroscience**, **Biomedical Engineering**, or **Vision Science**
+- 🧩 Contribute to open-source tools that advance health and accessibility
+- 👨🏽‍💻 Join a tech team solving meaningful problems with Python, AI, and research-driven development
+
+---
+
+## 📚 Skills Snapshot
+
+- **Languages**: Python, JavaScript, HTML/CSS, SQL  
+- **Frameworks**: Flask, Django, PsychoPy, Bootstrap  
+- **Tools**: Git, Postman, R, SPSS, Figma  
+- **Core Domains**: Visual Neuroscience, Low Vision, API Development, Accessibility Tech
+
+---
+
+## 🤝 Let’s Connect
+
+- 🌐 [My Portfolio Website](https://sites.google.com/view/nobbonsu)  
+- 📫 Email: nanaoseibonsu617@gmail.com  
+- 💼 [linkedin.com/in/nana-osei-bonsu-a57189170](#) | 🧠 [Google Scholar](#) | 💻 [GitHub]([https://github.com/oseiBonsu-617])
+
+---
+
+Thanks for visiting my GitHub. Whether you're a researcher, recruiter, or fellow builder — I’d love to collaborate and contribute to work that matters.
 
 
 <!--
