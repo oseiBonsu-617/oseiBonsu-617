@@ -41,7 +41,7 @@ You’ll find source code, research artifacts, and prototypes across my pinned r
 
 ## 📚 Skills Snapshot
 
-- **Languages**: Python, JavaScript, HTML/CSS, SQL  
+- **Languages**: Python, Matlab, JavaScript, HTML/CSS, SQL  
 - **Frameworks**: Flask, Django, PsychoPy, Bootstrap  
 - **Tools**: Git, Postman, R, SPSS, Figma  
 - **Core Domains**: Visual Neuroscience, Low Vision, API Development, Accessibility Tech
