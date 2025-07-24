@@ -50,7 +50,7 @@ You’ll find source code, research artifacts, and prototypes across my pinned r
 
 ## 🤝 Let’s Connect
 
-- 🌐 [My Portfolio Website](https://sites.google.com/view/nobbonsu)  
+- 🌐 [My Portfolio Website](https://nobbonsu.netlify.app)  
 - 📫 Email: nobbonsu440@gmail.com  
 - 💼 [linkedin.com/in/nana-osei-bonsu-a57189170](#) | 🧠 [Google Scholar](#) | 💻 [GitHub](https://github.com/oseiBonsu-617)
 
