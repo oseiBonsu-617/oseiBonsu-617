@@ -52,7 +52,7 @@ You’ll find source code, research artifacts, and prototypes across my pinned r
 
 - 🌐 [My Portfolio Website](https://nobbonsu.netlify.app)  
 - 📫 Email: nobbonsu440@gmail.com  
-- 💼 [linkedin.com/in/nobbonsu/](#) | 🧠 [Google Scholar](#) | 💻 [GitHub](https://github.com/oseiBonsu-617)
+- 💼 [linkedin.com/in/nobbonsu](#) | 🧠 [Google Scholar](#) | 💻 [GitHub](https://github.com/oseiBonsu-617)
 
 ---
 
